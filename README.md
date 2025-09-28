@@ -7,10 +7,12 @@ Blockchain is a distributed ledger technology that records transactions in a sec
 It is decentralized and maintained by a network of nodes.
 
 ## Topics
-- How blockchain works
-- Consensus mechanisms
-- Smart contracts
-- Use cases
+This repository includes notes on:
+
+- [How Blockchain Works](notes/how-blockchain-works.md)
+- [Consensus Mechanisms](notes/consensus-mechanisms.md)
+- [Smart Contracts](notes/smart-contracts.md)
+- [Blockchain Use Cases](notes/use-cases.md)
 
 ## Useful Links
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
